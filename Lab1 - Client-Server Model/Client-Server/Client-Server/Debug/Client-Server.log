@@ -1,0 +1,7 @@
+﻿  Client.cpp
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Client-Server\Client.cpp(31,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Client-Server\Client.cpp(164,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Client-Server\Client.cpp(47): warning C4715: compare: значение возвращается не при всех путях выполнения
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Client-Server\Client.cpp(77): warning C4715: auth_request: значение возвращается не при всех путях выполнения
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Client-Server\Client.cpp(107): warning C4715: exit_request: значение возвращается не при всех путях выполнения
+  Client-Server.vcxproj -> C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Debug\Client.exe

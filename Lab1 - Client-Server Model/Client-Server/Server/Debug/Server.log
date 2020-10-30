@@ -1,0 +1,5 @@
+﻿  Server.cpp
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Server\Server.cpp(38,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Server\Server.cpp(217,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Server\Server.cpp(48): warning C4715: compare: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\Lab1, 2\Client-Server\Debug\Server.exe

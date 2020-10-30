@@ -1,0 +1,3 @@
+﻿  UDPClient.cpp
+C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\TCP, UDP\UDP Client\UDPClient.cpp(32,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  UDP Client.vcxproj -> C:\Users\Vladimir\YandexDisk\Учёба\Компьютерные сети\TCP, UDP\Debug\UDP Client.exe
